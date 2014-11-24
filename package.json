@@ -1,0 +1,22 @@
+{
+  "name": "citysky",
+  "version": "0.0.1",
+  "description": "天空之城",
+  "author": "千寻",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "bower": "^1.3.12",
+    "color": "^0.7.3",
+    "ejs": "^1.0.0",
+    "express": "3.5",
+    "grunt": "^0.4.5",
+    "grunt-bower-task": "^0.4.0",
+    "grunt-cli": "^0.1.13",
+    "grunt-init": "^0.3.2",
+    "mongoose": "^3.8.19",
+    "supervisor": "^0.6.0"
+  }
+}
